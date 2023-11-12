@@ -1,0 +1,4 @@
+requests==2.31.0
+asyncio
+aioschedule==0.5.2
+aiogram==2.23.1

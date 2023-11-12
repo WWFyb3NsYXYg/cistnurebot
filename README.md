@@ -17,10 +17,11 @@ To use this bot, you need to follow these steps:
 
 1. Create a new bot using the [BotFather](https://telegram.me/BotFather) and obtain the bot token.
 2. Enable inline mode for the bot by sending the `/setinline` command to the BotFather.
-3. Clone this repository to your local machine.
-4. Install the required dependencies by running `pip install -r requirements.txt`.
-5. Run the `gen_file.py` script to generate the `config.py` file in the root directory of the project. Make sure to enter the Telegram bot token and NURE group name as prompted in the console. Do not modify the format of the input.
-6. Run the `bot.py` script to start the bot.
+3. Add the bot to your channel
+4. Clone this repository to your local machine.
+5. Install the required dependencies by running `pip install -r requirements.txt`.
+6. Run the `gen_file.py` script to generate the `config.py` file in the root directory of the project. Make sure to enter the Telegram bot token and NURE group name as prompted in the console. Do not modify the format of the input.
+7. Run the `bot.py` script to start the bot.
 
 ## Usage
 

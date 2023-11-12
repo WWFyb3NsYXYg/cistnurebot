@@ -5,6 +5,12 @@
 
 This is a Telegram bot that provides information about the schedule of a specific group in the Kharkiv National University of Radio Electronics (NURE). The bot uses the CIST API to retrieve the schedule information.
 
+
+<p align="center">
+  
+<img src="https://github.com/WWFyb3NsYXYg/cistnurebot/assets/87089735/70942ce0-4c8a-4923-8f4e-86f6b2eab759" height="400px">
+<p>
+  
 ## Getting Started
 
 To use this bot, you need to follow these steps:
